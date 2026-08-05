@@ -2,7 +2,7 @@
 
 This repository hosts the official resources of MovAD, a moving-camera video anomaly detection benchmark introduced in our paper:
 
-**MoDec-VAD: Motion-Decoupled Multi-Granularity Learning for Moving-Camera Video Anomaly Detection**
+**Motion-Decoupled Representation Learning for Moving-Camera Video Anomaly Detection**
 
 ## Dataset Description
 
